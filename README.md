@@ -1,2 +1,2 @@
 # Python-Class-Assignment-
-Py Squard Group for group assgniment
+Py Squard Group for group assignment
